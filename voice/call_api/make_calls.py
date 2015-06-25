@@ -11,8 +11,8 @@ params = {
     'answer_url' : "http://morning-ocean-4669.herokuapp.com/speech/", # The URL invoked by Plivo when the outbound call is answered
     'answer_method' : "GET", # The method used to call the answer_url
     # Example for Asynchrnous request
-    'callback_url' : "ttp://morning-ocean-4669.herokuapp.com/callback/", # The URL notified by the API response is available and to which the response is sent.
-    'callback_method' : "GET" # The method used to notify the callback_url.
+    # 'callback_url' : "http://morning-ocean-4669.herokuapp.com/callback/", # The URL notified by the API response is available and to which the response is sent.
+    # 'callback_method' : "GET" # The method used to notify the callback_url.
 }
 
 # Make an outbound call
