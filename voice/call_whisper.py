@@ -30,7 +30,7 @@ if __name__ == "__main__":
 
 # Sample output
 # <Response>
-#    <Dial confirmKey="5" confirmSound="ttps://morning-ocean-4669.herokuapp.com/confirm_sound/">
+#    <Dial confirmKey="5" confirmSound="https://morning-ocean-4669.herokuapp.com/confirm_sound/">
 #        <Number>1111111111</Number>
 #        <Number>2222222222</Number>
 #        <Number>3333333333</Number>
